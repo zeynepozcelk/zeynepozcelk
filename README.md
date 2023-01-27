@@ -19,5 +19,5 @@
 
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zeynepozcelk&show_icons=true&theme=synthwave" align = "center"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepozcelk&layout=compact&theme=synthwave" align = "center"/><img height="200em" src="https://badge42.vercel.app/api/v2/cldemjv2x00350fjsfqomt4ra/stats?cursusId=21&coalitionId=228" align = "center"/> 
+<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zeynepozcelk&show_icons=true&theme=synthwave" align = "center"/><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepozcelk&layout=compact&theme=synthwave" align = "center"/><img height="200em" src="https://badge42.vercel.app/api/v2/cldemjv2x00350fjsfqomt4ra/stats?cursusId=21&coalitionId=228" align = "center"/> 
 </p>
