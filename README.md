@@ -1,7 +1,7 @@
 
 ## 💻  About Me
 - 👍   Exploring new technologies and developing apps.
-- ⌨️   Interested in Wordpress, Web devolopment, Embeded systems, Digital Design, Machine Learning, Deep Learning,  and C.
+- ⌨️   Interested in Web devolopment, Embeded systems, Digital Design, Machine Learning, Deep Learning,  and C.
 - 🎓   Studying at Ecole 42, Kocaeli University as a Electronic and Communication Engineer
 
 
