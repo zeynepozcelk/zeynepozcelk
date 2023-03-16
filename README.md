@@ -6,7 +6,7 @@
 
 📫 How to Reach Me
 
-[![Linkedin Badge](https://img.shields.io/badge/utkuglsvn-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/utkuglsvn/)
+[![Linkedin Badge](https://www.linkedin.com/in/zeynep-%C3%B6z%C3%A7elik-667b7b1b1/)
 
 
 <h4 align="left">Languages and Tools:</h3>
