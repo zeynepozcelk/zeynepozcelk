@@ -4,6 +4,10 @@
 - ⌨️   Interested in Web devolopment, Embeded systems, Machine Learning, Deep Learning, Python and C.
 - 🎓   Studying at Ecole 42, Kocaeli University as a Electronic and Communication Engineer
 
+📫 How to Reach Me
+
+[![Linkedin Badge](https://img.shields.io/badge/utkuglsvn-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/utkuglsvn/)
+
 
 <h4 align="left">Languages and Tools:</h3>
 <p align="left">
