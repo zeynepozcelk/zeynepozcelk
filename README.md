@@ -4,6 +4,7 @@
 - ⌨️   Interested in Web devolopment, Embeded systems, Machine Learning, Deep Learning, Python and C.
 - 🎓   Studying at Ecole 42, Kocaeli University as a Electronic and Communication Engineer
 
+
 <h4 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://wordpress.com/tr/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png" alt="WordPress" width="40" height="40"/> </a>
